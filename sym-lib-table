@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "Sleep-Lib")(type "KiCad")(uri "${KIPRJMOD}/Libraries/Sleep-lib/Sleep-lib.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-mx")(type "KiCad")(uri "${KIPRJMOD}/Libraries/marbastlib/marbastlib-mx.kicad_sym")(options "")(descr ""))
+  (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/Libraries/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
+)
