@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "marbastlib-alps")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-alps.pretty")(options "")(descr ""))
+)
