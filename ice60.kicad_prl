@@ -61,7 +61,7 @@
       35
     ],
     "visible_layers": "ffc75ff_ffffffff",
-    "zone_display_mode": 1
+    "zone_display_mode": 0
   },
   "meta": {
     "filename": "ice60.kicad_prl",
