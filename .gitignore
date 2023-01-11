@@ -26,3 +26,10 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Production files
+*.zip
+Production
+
+# MacOS
+.DS_Store
